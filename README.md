@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amandaonovo
-- 👀 I’m interested in web3
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on pointer
+- 👀 I’m interested in Java language
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Devs
 - 📫 How to reach me ...
 
 <!---
