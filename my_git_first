@@ -1,5 +1,7 @@
-def hello():
-  print("Hello, Amanda Darlington")
-  print("Pointer is a place to be!")
- 
-hello()
+class Simple{ 
+
+    public static void main(String args[]){  
+     System.out.println("Hello Amanda");  
+    } 
+    
+}  
